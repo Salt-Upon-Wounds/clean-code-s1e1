@@ -162,11 +162,11 @@
   display: none
 }
 
-.list .list-item.editMode .input {
+.list .list-item.edit-mode .input {
   display: inline-block;
   width: 224px
 }
 
-.list .list-item.editMode .label {
+.list .list-item.edit-mode .label {
   display: none;
 }
